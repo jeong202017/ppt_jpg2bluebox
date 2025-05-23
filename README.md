@@ -1,10 +1,3 @@
-좋습니다! 주신 Google Drive 링크를 통해 `.exe` 파일을 배포하려면, README에 **직접 다운로드 가능한 형태의 링크**와 함께 명확한 설명을 포함하는 것이 좋습니다.
-
-아래는 **배포 중심의 README 예시**입니다.
-이 내용은 `.exe` 파일이 GitHub에 없고, **Google Drive로만 배포되는 경우에 최적화**되어 있습니다.
-
----
-
 ## 📄 README.md (Google Drive `.exe` 배포 중심)
 
 ```markdown
@@ -71,8 +64,3 @@ PowerPoint(.pptx) 파일 내 이미지들을 자동으로 추출하고,
 
 문의: jeong202017@gmail.com
 ```
-
----
-
-필요하다면 이 README를 `README.txt`로 변환해서 `.exe`와 함께 압축 배포하거나, 드라이브 설명란에 붙이는 것도 추천드립니다.
-원하시면 `.zip` 배포 패키지 구성도 도와드릴게요.
